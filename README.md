@@ -1,6 +1,6 @@
-PHP_SAMPLES
+**PHP_SAMPLES**
 
-These are code fragments from some PHP projects I've worked on in the past...
+**These are code fragments from some PHP projects I've worked on in the past...**
 
 
 
